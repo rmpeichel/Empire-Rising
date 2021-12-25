@@ -1,0 +1,8 @@
+0.0.0.1:
+    -Installed MongoDB and established successful connection
+    -Setup Express.js Server
+    -Setup React.js Frontend
+    -Created and populated base values for costs, damage, shielding, and armor for all buildings, ships, etc. (subject to tweaks)
+    -Created first draft of schema used for MongoDB (first draft subject to changes)
+    -Setup basic routing for several pages in frontend and backend (possible additional pages to be added later)
+    

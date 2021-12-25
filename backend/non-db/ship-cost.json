@@ -1,0 +1,52 @@
+{
+    "light_fighter": {
+        "metal_cost": 2500,
+        "crystal_cost": 1500,
+        "deuterium_cost": 0
+    },
+    "heavy_fighter": {
+        "metal_cost": 5000,
+        "crystal_cost": 3500,
+        "deuterium_cost": 0
+    },
+    "light_cruiser": {
+        "metal_cost": 6000,
+        "crystal_cost": 4000,
+        "deuterium_cost": 2000
+    },
+    "heavy_cruiser": {
+        "metal_cost": 10000,
+        "crystal_cost": 8000,
+        "deuterium_cost": 3000
+    },
+    "battleship": {
+        "metal_cost": 16000,
+        "crystal_cost": 12000,
+        "deuterium_cost": 8000
+    },
+    "battlecruiser": {
+        "metal_cost": 30000,
+        "crystal_cost": 15000,
+        "deuterium_cost": 10000
+    },
+    "destroyer": {
+        "metal_cost": 60000,
+        "crystal_cost": 35000,
+        "deuterium_cost": 20000
+    },
+    "bomber": {
+        "metal_cost": 40000,
+        "crystal_cost": 30000,
+        "deuterium_cost": 10000
+    },
+    "spy_probe": {
+        "metal_cost": 250,
+        "crystal_cost": 50,
+        "deuterium_cost": 0
+    },
+    "colony_ship": {
+        "metal_cost": 10000,
+        "crystal_cost": 10000,
+        "deuterium_cost": 5000
+    }
+}

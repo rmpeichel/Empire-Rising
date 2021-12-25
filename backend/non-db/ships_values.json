@@ -1,0 +1,132 @@
+{
+    "light_fighter": {
+        "weapons":{
+            "rocket_launcher": 0,
+            "light_laser_cannon": 2,
+            "medium_laser_cannon": 0,
+            "heavy_laser_cannon": 0,
+            "gauss_cannon": 0,
+            "plasma_cannon": 0,
+            "ion_cannon": 0
+        },
+        "overall_armor": 1000,
+        "overall_shielding": 400
+    },
+    "heavy_fighter": {
+        "weapons":{
+            "rocket_launcher": 0,
+            "light_laser_cannon": 2,
+            "medium_laser_cannon": 0,
+            "heavy_laser_cannon": 2,
+            "gauss_cannon": 0,
+            "plasma_cannon": 0,
+            "ion_cannon": 0
+        },
+        "overall_armor": 2000,
+        "overall_shielding": 800
+    },
+    "light_cruiser": {
+        "weapons":{
+            "rocket_launcher": 4,
+            "light_laser_cannon": 8,
+            "medium_laser_cannon": 8,
+            "heavy_laser_cannon": 8,
+            "gauss_cannon": 0,
+            "plasma_cannon": 0,
+            "ion_cannon": 0
+        },
+        "overall_armor": 4000,
+        "overall_shielding": 1000
+    },
+    "heavy_cruiser": {
+        "weapons":{
+            "rocket_launcher": 0,
+            "light_laser_cannon": 8,
+            "medium_laser_cannon": 12,
+            "heavy_laser_cannon": 16,
+            "gauss_cannon": 4,
+            "plasma_cannon": 0,
+            "ion_cannon": 2
+        },
+        "overall_armor": 8000,
+        "overall_shielding": 2000
+    },
+    "battleship": {
+        "weapons":{
+            "rocket_launcher": 0,
+            "light_laser_cannon": 12,
+            "medium_laser_cannon": 20,
+            "heavy_laser_cannon": 24,
+            "gauss_cannon": 6,
+            "plasma_cannon": 4,
+            "ion_cannon": 8
+        },
+        "overall_armor": 12000,
+        "overall_shielding": 4000
+    },
+    "battlecruiser": {
+        "weapons":{
+            "rocket_launcher": 0,
+            "light_laser_cannon": 18,
+            "medium_laser_cannon": 28,
+            "heavy_laser_cannon": 32,
+            "gauss_cannon": 10,
+            "plasma_cannon": 12,
+            "ion_cannon": 12
+        },
+        "overall_armor": 16000,
+        "overall_shielding": 6000
+    },
+    "destroyer": {
+        "weapons":{
+            "rocket_launcher": 0,
+            "light_laser_cannon": 24,
+            "medium_laser_cannon": 36,
+            "heavy_laser_cannon": 42,
+            "gauss_cannon": 16,
+            "plasma_cannon": 20,
+            "ion_cannon": 24
+        },
+        "overall_armor": 24000,
+        "overall_shielding": 12000
+    },
+    "bomber": {
+        "weapons":{
+            "rocket_launcher": 0,
+            "light_laser_cannon": 0,
+            "medium_laser_cannon": 12,
+            "heavy_laser_cannon": 0,
+            "gauss_cannon": 0,
+            "plasma_cannon": 28,
+            "ion_cannon": 0
+        },
+        "overall_armor": 20000,
+        "overall_shielding": 12000
+    },
+    "spy_probe": {
+        "weapons":{
+            "rocket_launcher": 0,
+            "light_laser_cannon": 0,
+            "medium_laser_cannon": 0,
+            "heavy_laser_cannon": 0,
+            "gauss_cannon": 0,
+            "plasma_cannon": 0,
+            "ion_cannon": 0
+        },
+        "overall_armor": 200,
+        "overall_shielding": 50
+    },
+    "colony_ship": {
+        "weapons":{
+            "rocket_launcher": 0,
+            "light_laser_cannon": 4,
+            "medium_laser_cannon": 0,
+            "heavy_laser_cannon": 0,
+            "gauss_cannon": 0,
+            "plasma_cannon": 0,
+            "ion_cannon": 0
+        },
+        "overall_armor": 5000,
+        "overall_shielding": 5000
+    }
+}

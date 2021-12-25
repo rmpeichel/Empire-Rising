@@ -1,0 +1,37 @@
+{
+    "rocket_launcher": {
+        "weapons_damage": 600,
+        "armor_points": 300,
+        "shield_points": 100
+    },
+    "light_laser_cannon": {
+        "weapons_damage": 1000,
+        "armor_points": 500,
+        "shield_points": 150
+    },
+    "medium_laser_cannon": {
+        "weapons_damage": 1500,
+        "armor_points": 800,
+        "shield_points": 350
+    },
+    "heavy_laser_cannon": {
+        "weapons_damage": 2750,
+        "armor_points": 1600,
+        "shield_points": 600
+    },
+    "gauss_cannon": {
+        "weapons_damage": 3500,
+        "armor_points": 2000,
+        "shield_points": 1000
+    },
+    "plasma_cannon": {
+        "weapons_damage": 5000,
+        "armor_points": 2500,
+        "shield_points": 1250
+    },
+    "ion_cannon": {
+        "weapons_damage": 3250,
+        "armor_points": 1800,
+        "shield_points": 800
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "metal_mine": {
+        "metal_cost": 500,
+        "crstal_cost": 0,
+        "deuterium_cost": 0
+    },
+    "crystal_mine": {
+        "metal_cost": 500,
+        "crystal_cost": 500,
+        "deuterium_cost": 0
+    },
+    "deuterium_mine": {
+        "metal_cost": 500,
+        "crystal_cost": 500,
+        "deuterium_cost": 0
+    },
+    "metal_storage": {
+        "metal_cost": 100,
+        "crystal_cost": 0,
+        "deuterium_cost": 0
+    },
+    "crystal_storage": {
+        "metal_cost": 100,
+        "crystal_cost": 100,
+        "deuterium_cost": 0
+    },
+    "deuterium_storage": {
+        "metal_cost": 100,
+        "crystal_cost": 100,
+        "deuterium_cost": 0
+    },
+    "solar_plant": {
+        "metal_cost": 100,
+        "crystal_cost": 100,
+        "deuterium_cost": 0
+    },
+    "solar_satellite": {
+        "metal_cost": 0,
+        "crystal_cost": 500,
+        "deuterium_cost": 100
+    },
+    "robotic_facility": {
+        "metal_cost": 200,
+        "crystal_cost": 150,
+        "deuterium_cost": 50
+    },
+    "shipyard": {
+        "metal_cost": 150,
+        "crystal_cost": 50,
+        "deuterium_cost": 50
+    },
+    "nanite_factory": {
+        "metal_cost": 600,
+        "crystal_cost": 300,
+        "deuterium_cost": 200
+    },
+    "research_lab": {
+        "metal_cost": 230,
+        "crystal_cost": 120,
+        "deuterium_cost": 50
+    }
+}
