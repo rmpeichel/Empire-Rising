@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-function upgradesRouter(database) {
+function upgradesRouter(connection) {
     
     return router;
 }

@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-function statsRouter(database) {
+function statsRouter(connection) {
     
     return router;
 }

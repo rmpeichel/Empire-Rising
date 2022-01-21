@@ -1,9 +1,9 @@
 var express = require('express');
 var router = express.Router();
 
-function researchRouter(connection) {
-    
+function resetPasswordRouter(connection) {
+
     return router;
 }
 
-module.exports = researchRouter;
+module.exports = resetPasswordRouter;

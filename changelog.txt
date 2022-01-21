@@ -5,4 +5,12 @@
     -Created and populated base values for costs, damage, shielding, and armor for all buildings, ships, etc. (subject to tweaks)
     -Created first draft of schema used for MongoDB (first draft subject to changes)
     -Setup basic routing for several pages in frontend and backend (possible additional pages to be added later)
-    
+
+0.0.0.2
+    -Setup Registration Page (Front-End Only)
+    -Setup Login Page (Front-End Only)
+    -Setup file system for pages used in webapp
+    -Updated mongodb schema to account for adminstrator accounts
+    -Updated wrong type in MongoDB schema
+    -made updates specified in react-router-dom 6
+    -started state management work
