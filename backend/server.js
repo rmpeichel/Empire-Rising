@@ -7,7 +7,7 @@ const PORT = 8000;
 require('dotenv').config();
 
 app.use(cors());
-app.use(bodyParser.json);
+app.use(bodyParser.json());
 mongoose.connect((process.env.MongoDB), { useNewUrlParser: true, useUnifiedTopology: true });
 const connection = mongoose.connection;
 connection.once('open', function() {
@@ -17,13 +17,10 @@ connection.once('open', function() {
 var commonRouter = require('./routes/Common/commonRouter')(connection);
 app.use('/', commonRouter);
 
-var playerRouter = require('./routes/Player/playerRouter')(connection);
-app.use('/player', playerRouter);
+//var playerRouter = require('./routes/Player/playerRouter')(connection);
+//app.use('/player', playerRouter);
 
 
 app.listen(PORT, () => {
     console.log("Server running on Port: " + PORT);
 });
-
-
-

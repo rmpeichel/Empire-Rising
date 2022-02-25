@@ -14,3 +14,4 @@
     -Updated wrong type in MongoDB schema
     -made updates specified in react-router-dom 6
     -started state management work
+    -successfull registration request that populates to database
